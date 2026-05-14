@@ -103,15 +103,15 @@
   <section id="home">
     <h2>Mission Statement</h2>
     <p>
-      The prison system in America faces challenges like overcrowding, lack of rehabilitation programs, mental health issues, and limited opportunities after release. Many incarcerated individuals after getting released struggle to find jobs, housing, and support systems, and this can lead to high recidivism rates.
+      The prison system in America faces things like overcrowding, lack of rehab programs, mental health problems, and limited opportunities after release. Many incarcerated people after getting released have a hard time finding jobs, houses, and support, and this can lead to high recidivism rates.
     </p>
 
     <p>
-      Second Chance Initiative is a non-profit organization thats commmited to helping incarcerated and formerly incarcerated individuals rebuild their lives. Our goal is to provide education, job training, counseling, and community support to help prevent and end repeat offenses and create safer communities and neighborhoods.
+      Second Chance Initiative is a non profit organization thats goal is to help incarcerated and formerly incarcerated people rebuild their lives. Our goal is to provide education, job training, counseling, and community support to help prevent and end repeat offenses and create safer communities and neighborhoods.
     </p>
 
     <p>
-      We believe every person deserves the opportunity to improve their future. By focusing on rehabilitation instead of punishment, we can address the causes of incarceration and create positive change.
+      Our orginization believes everyone deserves the chance to improve their future. By focusing on rehab, instead of punishment like the norm, we can address the causes of incarceration and cause a positive change.
     </p>
   </section>
 
